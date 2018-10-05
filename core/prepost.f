@@ -436,7 +436,7 @@ C     Dump header
       return
       end
 c-----------------------------------------------------------------------
-      subroutine file2(nopen,PREFIX)
+      subroutine file2(nopen,prefix)
 C----------------------------------------------------------------------
 C
 C     Defines machine specific input and output file names.
